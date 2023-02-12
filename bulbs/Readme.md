@@ -1,1 +1,1 @@
-#Solution to Harvard's CS50 Week 2 Problem 1 Bulbs
+# Solution to Harvard's CS50 Week 2 Problem 1 Bulbs
