@@ -1,0 +1,4 @@
+Q1: If their average danceability, valence and energy is above 0.75 then the audio aura of that specific user is active
+Q2: It is difficult to judge to someone based on their playlists of songs and my hypothesis fails in some aspects for instance a user listening  depends upon the user's mood per say so
+    a more correct way of predicting a person's aura is to look at the artists the user mostly listens to and the genre of the music iself which will make it a lot easier to specify a
+    person's aura
