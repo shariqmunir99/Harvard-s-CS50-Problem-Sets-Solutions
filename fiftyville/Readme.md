@@ -1,1 +1,1 @@
-# Solution to Harvard's CS50 Week 7 Problem 2 FiftyVille.
+# Solution to Harvard's CS50 Week 7 P-Set 7 FiftyVille.
