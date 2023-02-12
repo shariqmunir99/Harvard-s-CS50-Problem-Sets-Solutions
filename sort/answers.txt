@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The Omega Time Taken By Bubble is the least as compared to Merge And Selection sort and After Conducting Multiple Runs on the Sorted Txt Files The Least Time Output was of Sort1 Therefore it is bubble sort
+
+sort2 uses: Merge Sort
+
+How do you know?: The BIG O notation time taken by merge sort to sort a random list is much less as compared to bubble and selection and after running sort 2 on random txt multiple its time output was the least there it is merge sort
+
+sort3 uses: Selection Sort
+
+How do you know?: Since The Big O Notation and Omega Notation Time of selection sort is the same therefore after conducting multiple runs on random and sorted txt the time outputs were almost similar therefore it is selection sort
